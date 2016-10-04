@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="semi_transparent_black">#90000000</color>
+    <color name="colorPrimary">#00bcd4</color>
+    <color name="mysplashscreen">#00acc1</color>
+    <color name="colorPrimaryDark">#00acc1</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="global_color_primary_light">#ffffff</color>
+    <color name="global_color_green_primary">#4caf50</color>
+    <color name="global_color_green_primary_light">#00b0ff</color>
+    <color name="global_color_green_primary_dark">#388e3c</color>
+    <color name="global_color_green_accent">#ffc107</color>
+    <color name="global_color_green_control_activated">#ffc107</color>
+</resources>
